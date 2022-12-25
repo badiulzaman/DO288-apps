@@ -1,2 +1,2 @@
 # Use the httpd-parent image as base
-FROM quay.io/redhattraining/httpd-parent
+FROM quay.io/badiulzaman/do288-apache
